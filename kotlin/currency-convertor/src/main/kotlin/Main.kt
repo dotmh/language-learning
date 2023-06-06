@@ -40,6 +40,9 @@ suspend fun main() {
         Coins.c1 * 14
     )
 
+    val walletSummary = wallet.joinToString(separator = " | ") { e -> "¥$e" };
+    println("Wallet $walletSummary");
+
     val key: String = System.getenv("FREE_CURRENCY_API_KEY") ?: "";
     val url = "https://api.freecurrencyapi.com/v1/latest?apikey=${key}&currencies=GBP&base_currency=JPY"
 
