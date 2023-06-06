@@ -35,6 +35,12 @@ You have returned from a 2 week trip in Japan. You didn't spend all the money th
 - 7 x ¥5 coins
 - 14 x ¥1 coins
 
+## API
+
+You can get the above data, as well as Japanese coin and note denominations from an API endpoint.
+
+Make a [HTTP GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) request to <https://learn.api.dotmh.dev>
+
 ## Implementations
 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](/typescript/node/index.ts)
