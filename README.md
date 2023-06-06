@@ -34,3 +34,9 @@ You have returned from a 2 week trip in Japan. You didn't spend all the money th
 - 8 x ¥10 coins
 - 7 x ¥5 coins
 - 14 x ¥1 coins
+
+## Implementations
+
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](/typescript/node/index.ts)
+
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](/kotlin/currency-convertor/src/main/kotlin/Main.kt)
