@@ -1,0 +1,27 @@
+{
+  "name": "@dotmh/curreny-node",
+  "version": "0.1.0",
+  "description": "A Refrence implementation of the currency scenario in typescript for node",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dotmh/currency-project.git"
+  },
+  "keywords": [
+    "Learning"
+  ],
+  "author": "Martin Haynes <oss+currency@dotmh.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dotmh/currency-project/issues"
+  },
+  "homepage": "https://github.com/dotmh/currency-project#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
