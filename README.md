@@ -46,3 +46,5 @@ Make a [HTTP GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](/typescript/node/index.ts)
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](/kotlin/currency-convertor/src/main/kotlin/Main.kt)
+
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](/go/currency.go)
