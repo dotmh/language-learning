@@ -57,8 +57,7 @@ but in the real world it would be better to allow the user to input that data. s
 
 #### Graphical User Interface
 
-The next cool step might be to add a Graphical User Interface. Real Users prefer a GUI as they find
-Command Line Interface (CLI) apps much more intimidating. In this case you might add
+The next cool step might be to add a Graphical User Interface (GUI). Real Users prefer a GUI as they find Command Line Interface (CLI) apps much more intimidating. In this case you might add
 
 - show the user graphical the total in ¥ and in £
 
@@ -76,7 +75,7 @@ interesting from a coding point of view because it will be more about Data. You 
 all the different coins and notes used by each currency.
 
 The biggest logic change will be handling the sub unit of currencies used by some currencies such as
-Cents ¢ on the Dollar $ or pence p on the Pound £. Although again this is pretty simple as almost all
+Cents (¢) on the Dollar ($) or pence (p) on the Pound (£). Although again this is pretty simple as almost all
 currencies have a 100 sub units of currency to the main.
 
 With all of these scope extensions added together you would have a full app that could be useful for
