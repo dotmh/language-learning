@@ -101,3 +101,9 @@ Please note these implementations (with the exemption of Typescript) are all cre
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](/typescript/node/index.ts)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](/kotlin/currency-convertor/src/main/kotlin/Main.kt)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](/go/currency.go)
+
+### Notes for running
+
+#### Environment Variables
+
+All examples expect the API key for [Free Currency API](https://freecurrencyapi.com) to be stored in the Environment variable `FREE_CURRENCY_API_KEY`
