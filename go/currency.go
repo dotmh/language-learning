@@ -90,5 +90,6 @@ func main() {
 
 	gbp := float64(yen) * jsonResponse.Data.GBP;
 
-	fmt.Printf("You have ¥%d , which is £%.2f", yen , gbp)
+	fmt.Printf("You have ¥%d , which is £%.2f \n", yen , gbp)
+
 }
