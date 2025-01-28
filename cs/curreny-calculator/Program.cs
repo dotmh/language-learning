@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿CurrencyCalculator.Currency currency = new CurrencyCalculator.Currency();
+await currency.processWallet();
