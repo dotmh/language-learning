@@ -1,5 +1,3 @@
-import { serve } from "https://deno.land/std@0.155.0/http/server.ts";
-
 interface Denomination {
     name: string,
     value: number
@@ -59,7 +57,7 @@ const wallet: Wallet = {
     coins: [item(500, 1), item(100, 4), item(50, 5), item(10, 8), item(5, 7), item(1, 14)]
 };
 
-serve(() => {
+Deno.serve(() => {
     const data: APIResponse = {
         denominations: yenDenominations,
         wallet
