@@ -1,3 +1,5 @@
+![DotMH](https://github.com/dotmh/dotmh/raw/main/logo.png) 
+
 # Language Learning Scenario
 
 ## About
